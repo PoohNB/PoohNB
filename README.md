@@ -1,7 +1,5 @@
 ## Hi, I'm Pooh 👋
 
-<!--
-
 <p align="center">
   🎓 Master's in Mechatronics & Machine Intelligence <br>
   🚗 Autonomous Driving | Reinforcement Learning | Sim-to-Real  <br>
@@ -22,3 +20,4 @@ A Flask-based web application for practice deploy machine learning application.
 work together with my friends to create user-friendly symptom checker tool.  
 [👉 See Project](https://github.com/Tonpattra/Symptom-Checker-Application/tree/main)
 
+<!--
