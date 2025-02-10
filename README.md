@@ -1,17 +1,14 @@
 ## Hi, I'm Pooh 👋
 
-
-<p align="center">
   🎓 Master's in Mechatronics & Machine Intelligence <br>
   🚗 Autonomous Driving | Reinforcement Learning | Sim-to-Real  <br>
-  💻 PyTorch, Scikit-learn, HuggingFace,.. <br>
-</p>
-
+  🛠  PyTorch, Scikit-learn, HuggingFace <br>
+  💻 Python
 
 ## Projects
 
 ### 📚 Machine Learning Class Repository
-A curated collection of my class projects that explore different machine learning techniques and algorithms.  
+my class assignment, project, exam.  
 [👉 Explore Repository](https://github.com/PoohNB/MachineLearning)
 
 ### 🚗 Car Price Prediction Web App
