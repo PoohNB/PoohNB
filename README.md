@@ -1,10 +1,12 @@
 ## Hi, I'm Pooh 👋
 
+
 <p align="center">
   🎓 Master's in Mechatronics & Machine Intelligence <br>
   🚗 Autonomous Driving | Reinforcement Learning | Sim-to-Real  <br>
   💻 PyTorch, Scikit-learn, HuggingFace,.. <br>
 </p>
+
 
 ## Projects
 
