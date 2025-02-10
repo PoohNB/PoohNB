@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Pooh 👋
 
 <!--
-**PoohNB/PoohNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Master's in Mechatronics & Machine Intelligence <br>
+  🚗 Autonomous Driving | Reinforcement Learning | Sim-to-Real  <br>
+  💻 PyTorch, Scikit-learn, HuggingFace,.. <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 📚 Machine Learning Class Repository
+A curated collection of my class projects that explore different machine learning techniques and algorithms.  
+[👉 Explore Repository](https://github.com/PoohNB/MachineLearning)
+
+### 🚗 Car Price Prediction Web App
+A Flask-based web application for practice deploy machine learning application.  
+[👉 View Project](https://github.com/PoohNB/ML-flask-web-application/tree/main)
+
+### 🩺 Symptom Checker Application
+work together with my friends to create user-friendly symptom checker tool.  
+[👉 See Project](https://github.com/Tonpattra/Symptom-Checker-Application/tree/main)
+
